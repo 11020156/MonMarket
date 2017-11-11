@@ -7,8 +7,8 @@
 		},
 		"Name": {
 			"EN": "XAUUSD",
-			"SC": "现货黄金",
-			"TC": "現貨黃金"
+			"SC": "伦敦金",
+			"TC": "倫敦金"
 		},
 		"Symbol": "XAUUSD.em"
 	}, {
@@ -43,8 +43,8 @@
 		},
 		"Name": {
 			"EN": "XAGUSD",
-			"SC": "标准白银",
-			"TC": "標準白銀"
+			"SC": "伦敦银",
+			"TC": "倫敦銀"
 		},
 		"Symbol": "XAGUSD.b2"
 	}],
