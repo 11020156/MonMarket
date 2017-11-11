@@ -1,0 +1,430 @@
+[{
+	"Products": [{
+		"Info": {
+			"ContractSize": "100",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "6"
+		},
+		"Name": {
+			"EN": "HKGHKD",
+			"SC": "港金",
+			"TC": "港金"
+		},
+		"Symbol": "HKGHKD"
+	}, {
+		"Info": {
+			"ContractSize": "100",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.0"
+		},
+		"Name": {
+			"EN": "XAUUSD",
+			"SC": "现货黄金",
+			"TC": "現貨黃金"
+		},
+		"Symbol": "XAUUSD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "4.0"
+		},
+		"Name": {
+			"EN": "XAUEUR",
+			"SC": "黄金欧元",
+			"TC": "黃金歐元"
+		},
+		"Symbol": "XAUEUR.em"
+	}, {
+		"Info": {
+			"ContractSize": "100",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "5.0"
+		},
+		"Name": {
+			"EN": "XAUAUD",
+			"SC": "黄金澳元",
+			"TC": "黃金澳元"
+		},
+		"Symbol": "XAUAUD.em"
+	}, {
+		"Info": {
+			"ContractSize": "5000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.0"
+		},
+		"Name": {
+			"EN": "XAGUSD",
+			"SC": "标准白银",
+			"TC": "標準白銀"
+		},
+		"Symbol": "XAGUSD.b2"
+	}],
+	"Type": "Bullion"
+}, {
+	"Products": [{
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "1.7"
+		},
+		"Name": {
+			"EN": "EURUSD",
+			"SC": "欧元美元",
+			"TC": "歐元美元"
+		},
+		"Symbol": "EURUSD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.2"
+		},
+		"Name": {
+			"EN": "USDJPY",
+			"SC": "美元日元",
+			"TC": "美元日元"
+		},
+		"Symbol": "USDJPY.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.2"
+		},
+		"Name": {
+			"EN": "GBPUSD",
+			"SC": "英镑美元",
+			"TC": "英鎊美元"
+		},
+		"Symbol": "GBPUSD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.2"
+		},
+		"Name": {
+			"EN": "USDCHF",
+			"SC": "美元瑞士法郎",
+			"TC": "美元瑞士法郎"
+		},
+		"Symbol": "USDCHF.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.2"
+		},
+		"Name": {
+			"EN": "AUDUSD",
+			"SC": "澳元美元",
+			"TC": "澳元美元"
+		},
+		"Symbol": "AUDUSD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.2"
+		},
+		"Name": {
+			"EN": "NZDUSD",
+			"SC": "紐元美元",
+			"TC": "紐元美元"
+		},
+		"Symbol": "NZDUSD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.2"
+		},
+		"Name": {
+			"EN": "USDCAD",
+			"SC": "美元加元",
+			"TC": "美元加元"
+		},
+		"Symbol": "USDCAD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.0"
+		},
+		"Name": {
+			"EN": "CADCHF",
+			"SC": "加元瑞士法郎",
+			"TC": "加元瑞士法郎"
+		},
+		"Symbol": "CADCHF.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.0"
+		},
+		"Name": {
+			"EN": "CADJPY",
+			"SC": "加元日元",
+			"TC": "加元日元"
+		},
+		"Symbol": "CADJPY.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.0"
+		},
+		"Name": {
+			"EN": "NZDJPY",
+			"SC": "紐元日元",
+			"TC": "紐元日元"
+		},
+		"Symbol": "NZDJPY.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.5"
+		},
+		"Name": {
+			"EN": "NZDCHF",
+			"SC": "紐元瑞士法郎",
+			"TC": "紐元瑞士法郎"
+		},
+		"Symbol": "NZDCHF.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.0"
+		},
+		"Name": {
+			"EN": "NZDCAD",
+			"SC": "紐元加元",
+			"TC": "紐元加元"
+		},
+		"Symbol": "NZDCAD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.4"
+		},
+		"Name": {
+			"EN": "AUDCAD",
+			"SC": "澳元加元",
+			"TC": "澳元加元"
+		},
+		"Symbol": "AUDCAD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "4.0"
+		},
+		"Name": {
+			"EN": "AUDNZD",
+			"SC": "澳元紐元",
+			"TC": "澳元紐元"
+		},
+		"Symbol": "AUDNZD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.5"
+		},
+		"Name": {
+			"EN": "AUDCHF",
+			"SC": "澳元瑞士法郎",
+			"TC": "澳元瑞士法郎"
+		},
+		"Symbol": "AUDCHF.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.4"
+		},
+		"Name": {
+			"EN": "AUDJPY",
+			"SC": "澳元日元",
+			"TC": "澳元日元"
+		},
+		"Symbol": "AUDJPY.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.2"
+		},
+		"Name": {
+			"EN": "GBPCAD",
+			"SC": "英镑加元",
+			"TC": "英鎊加元"
+		},
+		"Symbol": "GBPCAD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "5.0"
+		},
+		"Name": {
+			"EN": "GBPNZD",
+			"SC": "英镑紐元",
+			"TC": "英鎊紐元"
+		},
+		"Symbol": "GBPNZD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "4.0"
+		},
+		"Name": {
+			"EN": "GBPAUD",
+			"SC": "英镑澳元",
+			"TC": "英鎊澳元"
+		},
+		"Symbol": "GBPAUD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "4.0"
+		},
+		"Name": {
+			"EN": "GBPCHF",
+			"SC": "英镑瑞士法郎",
+			"TC": "英鎊瑞士法郎"
+		},
+		"Symbol": "GBPCHF.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.2"
+		},
+		"Name": {
+			"EN": "GBPJPY",
+			"SC": "英镑日元",
+			"TC": "英鎊日元"
+		},
+		"Symbol": "GBPJPY.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.4"
+		},
+		"Name": {
+			"EN": "EURCAD",
+			"SC": "欧元加元",
+			"TC": "歐元加元"
+		},
+		"Symbol": "EURCAD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "4.0"
+		},
+		"Name": {
+			"EN": "EURNZD",
+			"SC": "欧元紐元",
+			"TC": "歐元紐元"
+		},
+		"Symbol": "EURNZD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.0"
+		},
+		"Name": {
+			"EN": "EURAUD",
+			"SC": "欧元澳元",
+			"TC": "歐元澳元"
+		},
+		"Symbol": "EURAUD.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "3.5"
+		},
+		"Name": {
+			"EN": "EURCHF",
+			"SC": "欧元瑞士法郎",
+			"TC": "歐元瑞士法郎"
+		},
+		"Symbol": "EURCHF.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.0"
+		},
+		"Name": {
+			"EN": "EURGBP",
+			"SC": "欧元英镑",
+			"TC": "歐元英鎊"
+		},
+		"Symbol": "EURGBP.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "2.4"
+		},
+		"Name": {
+			"EN": "EURJPY",
+			"SC": "欧元日元",
+			"TC": "歐元日元"
+		},
+		"Symbol": "EURJPY.em"
+	}, {
+		"Info": {
+			"ContractSize": "100000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "17"
+		},
+		"Name": {
+			"EN": "USDCNH",
+			"SC": "美元人民币",
+			"TC": "美元人民幣"
+		},
+		"Symbol": "USDCNH.em"
+	}],
+	"Type": "Forex"
+}, {
+	"Products": [{
+		"Info": {
+			"ContractSize": "1000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "4.0"
+		},
+		"Name": {
+			"EN": "XTIUSD",
+			"SC": "西德克萨斯中质原油",
+			"TC": "西德克薩斯中質原油"
+		},
+		"Symbol": "XTIUSD.co"
+	}, {
+		"Info": {
+			"ContractSize": "1000",
+			"MarginPerLot": "1000",
+			"MinBidAskSpread": "4.0"
+		},
+		"Name": {
+			"EN": "XBRUSD",
+			"SC": "布伦特原油",
+			"TC": "布倫特原油"
+		},
+		"Symbol": "XBRUSD.co"
+	}],
+	"Type": "Oil"
+}]
