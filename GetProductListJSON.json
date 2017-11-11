@@ -3,18 +3,6 @@
 		"Info": {
 			"ContractSize": "100",
 			"MarginPerLot": "1000",
-			"MinBidAskSpread": "6"
-		},
-		"Name": {
-			"EN": "HKGHKD",
-			"SC": "港金",
-			"TC": "港金"
-		},
-		"Symbol": "HKGHKD"
-	}, {
-		"Info": {
-			"ContractSize": "100",
-			"MarginPerLot": "1000",
 			"MinBidAskSpread": "3.0"
 		},
 		"Name": {
